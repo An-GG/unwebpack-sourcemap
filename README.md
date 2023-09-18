@@ -1,5 +1,12 @@
 forked from [rarecoil/unwebpack-sourcemap](https://github.com/rarecoil/unwebpack-sourcemap)
 
+09/2023 - still works to yoink the source code of most websites using webpack and typescript with default build settings (all of them). 
+required python modules are included in `/lib`
+
+just need to find a link to a sourcemap:
+
+![](findsourcemap.gif)
+
 # unwebpack-sourcemap
 
 ### Recover uncompiled TypeScript sources, JSX, and more from Webpack sourcemaps.

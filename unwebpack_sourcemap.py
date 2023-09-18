@@ -9,12 +9,14 @@
     flag. Puts source into a directory structure similar to dev.
 """
 
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + "/lib")
+
 import argparse
 import json
-import os
 import re
 import string
-import sys
 from urllib.parse import urlparse
 from unicodedata import normalize
 
