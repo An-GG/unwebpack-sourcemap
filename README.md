@@ -1,10 +1,6 @@
+forked from [rarecoil/unwebpack-sourcemap](https://github.com/rarecoil/unwebpack-sourcemap)
+
 # unwebpack-sourcemap
-
-# Archive Notice (April 15 2022)
-
-This script seems to be helpful for many, but unfortunately I also do not have time to maintain it and properly code review the work of potential contributors. I'll leave it in an archived state for a while for anyone that wants to fork it, but I will eventually delete this repository.
-
-
 
 ### Recover uncompiled TypeScript sources, JSX, and more from Webpack sourcemaps.
 
